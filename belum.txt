@@ -1,0 +1,7 @@
+include "configurasi/koneksi.php";
+include "configurasi/library.php";
+include "configurasi/fungsi_indotgl.php";
+include "configurasi/fungsi_combobox.php";
+include "configurasi/class_paging.php";
+
+MODUL SISWA
